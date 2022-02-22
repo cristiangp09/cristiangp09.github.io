@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Portafolio ML
 
-You can use the [editor on GitHub](https://github.com/cristiangp09/cristiangp09.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hi my name is Cristian, I'm 21 years old and I'm studying economics at Universidad Santo Tomás.
+Here I'll publishh all my pyhton codes for my ML class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Project II
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
