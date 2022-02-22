@@ -2,7 +2,11 @@
 
 Hi my name is Cristian, I’m 21 years old and I’m studying economics at Universidad Santo Tomás. Here I’ll publishh all my pyhton codes for my ML class.
 
-### Markdown
+### Proyecto II:
+
+desarrollar un script que, a trav´es de funciones, permita obtener informaci´on estad´ıstica descriptiva
+de una tabla dada.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
